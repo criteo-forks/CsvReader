@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Criteo.CsvReader</id>
+    <version>3.9.0.0</version>
+    <title>Criteo.CsvReader</title>
+    <authors>criteo</authors>
+    <owners>criteo</owners>
+    <projectUrl>https://github.com/criteo-forks/CsvReader</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Criteo fork of Paul Hatcher's and Sebastian Lorien's fast CSV Reader</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright 2016</copyright>
+    <tags></tags>
+  </metadata>
+</package>
